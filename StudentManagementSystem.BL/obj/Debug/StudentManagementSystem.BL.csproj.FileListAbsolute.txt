@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Windows form Student Management\student_management_system\StudentManagementSystem.BL\obj\Debug\StudentManagementSystem.BL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Windows form Student Management\student_management_system\StudentManagementSystem.BL\bin\Debug\StudentManagementSystem.BL.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Windows form Student Management\student_management_system\StudentManagementSystem.BL\bin\Debug\StudentManagementSystem.BL.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Windows form Student Management\student_management_system\StudentManagementSystem.BL\bin\Debug\DMSSWE.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Windows form Student Management\student_management_system\StudentManagementSystem.BL\bin\Debug\StudentManagementSystem.DATA.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Windows form Student Management\student_management_system\StudentManagementSystem.BL\bin\Debug\StudentManagementSystem.DATA.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Windows form Student Management\student_management_system\StudentManagementSystem.BL\obj\Debug\StudentManagementSystem.BL.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Windows form Student Management\student_management_system\StudentManagementSystem.BL\obj\Debug\StudentManagementSystem.BL.pdb
